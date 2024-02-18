@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignOfIntegerNumbers", "MethodsLab\SignOfIntegerNumbers.csproj", "{977E58AF-D74E-4C0C-BD5A-41D23869FEB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grades", "Grades\Grades.csproj", "{AB46D9F0-4F2B-4E61-960E-C4AA781A893D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintingTriangle", "PrintingTriangle\PrintingTriangle.csproj", "{E392190C-A861-4A09-BB9A-F00E08E2A6F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateRectangleArea", "CalculateRectangleArea\CalculateRectangleArea.csproj", "{2843F31C-EA13-40AC-905C-EF6BAD387932}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatString", "RepeatString\RepeatString.csproj", "{B56515FB-5756-43C7-B43C-8AAB020AA3C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreaterofTwoValues", "GreaterofTwoValues\GreaterofTwoValues.csproj", "{726892DA-5B87-4614-B350-AD78070D6548}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculations", "Calculations\Calculations.csproj", "{6BD36956-B6AF-4B90-8380-565C8DE1BE27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{977E58AF-D74E-4C0C-BD5A-41D23869FEB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{977E58AF-D74E-4C0C-BD5A-41D23869FEB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{977E58AF-D74E-4C0C-BD5A-41D23869FEB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{977E58AF-D74E-4C0C-BD5A-41D23869FEB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB46D9F0-4F2B-4E61-960E-C4AA781A893D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB46D9F0-4F2B-4E61-960E-C4AA781A893D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB46D9F0-4F2B-4E61-960E-C4AA781A893D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB46D9F0-4F2B-4E61-960E-C4AA781A893D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E392190C-A861-4A09-BB9A-F00E08E2A6F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E392190C-A861-4A09-BB9A-F00E08E2A6F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E392190C-A861-4A09-BB9A-F00E08E2A6F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E392190C-A861-4A09-BB9A-F00E08E2A6F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2843F31C-EA13-40AC-905C-EF6BAD387932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2843F31C-EA13-40AC-905C-EF6BAD387932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2843F31C-EA13-40AC-905C-EF6BAD387932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2843F31C-EA13-40AC-905C-EF6BAD387932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B56515FB-5756-43C7-B43C-8AAB020AA3C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56515FB-5756-43C7-B43C-8AAB020AA3C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56515FB-5756-43C7-B43C-8AAB020AA3C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56515FB-5756-43C7-B43C-8AAB020AA3C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{726892DA-5B87-4614-B350-AD78070D6548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{726892DA-5B87-4614-B350-AD78070D6548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{726892DA-5B87-4614-B350-AD78070D6548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{726892DA-5B87-4614-B350-AD78070D6548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BD36956-B6AF-4B90-8380-565C8DE1BE27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BD36956-B6AF-4B90-8380-565C8DE1BE27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BD36956-B6AF-4B90-8380-565C8DE1BE27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BD36956-B6AF-4B90-8380-565C8DE1BE27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {542177F4-4FC2-4046-9CBD-526EB6912A5F}
+	EndGlobalSection
+EndGlobal

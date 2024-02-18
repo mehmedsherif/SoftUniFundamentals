@@ -1,0 +1,15 @@
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\ConvertMetersToKilometers\bin\Debug\net6.0\ConvertMetersToKilometers.exe
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\ConvertMetersToKilometers\bin\Debug\net6.0\ConvertMetersToKilometers.deps.json
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\ConvertMetersToKilometers\bin\Debug\net6.0\ConvertMetersToKilometers.runtimeconfig.json
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\ConvertMetersToKilometers\bin\Debug\net6.0\ConvertMetersToKilometers.dll
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\ConvertMetersToKilometers\bin\Debug\net6.0\ConvertMetersToKilometers.pdb
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\ConvertMetersToKilometers\obj\Debug\net6.0\ConvertMetersToKilometers.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\ConvertMetersToKilometers\obj\Debug\net6.0\ConvertMetersToKilometers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\ConvertMetersToKilometers\obj\Debug\net6.0\ConvertMetersToKilometers.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\ConvertMetersToKilometers\obj\Debug\net6.0\ConvertMetersToKilometers.AssemblyInfo.cs
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\ConvertMetersToKilometers\obj\Debug\net6.0\ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\ConvertMetersToKilometers\obj\Debug\net6.0\ConvertMetersToKilometers.dll
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\ConvertMetersToKilometers\obj\Debug\net6.0\refint\ConvertMetersToKilometers.dll
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\ConvertMetersToKilometers\obj\Debug\net6.0\ConvertMetersToKilometers.pdb
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\ConvertMetersToKilometers\obj\Debug\net6.0\ConvertMetersToKilometers.genruntimeconfig.cache
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\ConvertMetersToKilometers\obj\Debug\net6.0\ref\ConvertMetersToKilometers.dll

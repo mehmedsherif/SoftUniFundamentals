@@ -1,0 +1,15 @@
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\LowerOrUpper\obj\Debug\net6.0\LowerOrUpper.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\LowerOrUpper\obj\Debug\net6.0\LowerOrUpper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\LowerOrUpper\obj\Debug\net6.0\LowerOrUpper.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\LowerOrUpper\obj\Debug\net6.0\LowerOrUpper.AssemblyInfo.cs
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\LowerOrUpper\obj\Debug\net6.0\LowerOrUpper.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\LowerOrUpper\bin\Debug\net6.0\LowerOrUpper.exe
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\LowerOrUpper\bin\Debug\net6.0\LowerOrUpper.deps.json
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\LowerOrUpper\bin\Debug\net6.0\LowerOrUpper.runtimeconfig.json
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\LowerOrUpper\bin\Debug\net6.0\LowerOrUpper.dll
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\LowerOrUpper\bin\Debug\net6.0\LowerOrUpper.pdb
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\LowerOrUpper\obj\Debug\net6.0\LowerOrUpper.dll
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\LowerOrUpper\obj\Debug\net6.0\refint\LowerOrUpper.dll
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\LowerOrUpper\obj\Debug\net6.0\LowerOrUpper.pdb
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\LowerOrUpper\obj\Debug\net6.0\LowerOrUpper.genruntimeconfig.cache
+C:\Users\mehme\source\repos\DataTypesAndVariablesLab\LowerOrUpper\obj\Debug\net6.0\ref\LowerOrUpper.dll

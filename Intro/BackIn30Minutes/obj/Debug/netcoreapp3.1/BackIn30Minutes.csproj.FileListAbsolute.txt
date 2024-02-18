@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\Intro\BackIn30Minutes\bin\Debug\netcoreapp3.1\BackIn30Minutes.exe
+C:\Users\mehme\source\repos\Intro\BackIn30Minutes\bin\Debug\netcoreapp3.1\BackIn30Minutes.deps.json
+C:\Users\mehme\source\repos\Intro\BackIn30Minutes\bin\Debug\netcoreapp3.1\BackIn30Minutes.runtimeconfig.json
+C:\Users\mehme\source\repos\Intro\BackIn30Minutes\bin\Debug\netcoreapp3.1\BackIn30Minutes.runtimeconfig.dev.json
+C:\Users\mehme\source\repos\Intro\BackIn30Minutes\bin\Debug\netcoreapp3.1\BackIn30Minutes.dll
+C:\Users\mehme\source\repos\Intro\BackIn30Minutes\bin\Debug\netcoreapp3.1\BackIn30Minutes.pdb
+C:\Users\mehme\source\repos\Intro\BackIn30Minutes\obj\Debug\netcoreapp3.1\BackIn30Minutes.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\Intro\BackIn30Minutes\obj\Debug\netcoreapp3.1\BackIn30Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\Intro\BackIn30Minutes\obj\Debug\netcoreapp3.1\BackIn30Minutes.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\Intro\BackIn30Minutes\obj\Debug\netcoreapp3.1\BackIn30Minutes.AssemblyInfo.cs
+C:\Users\mehme\source\repos\Intro\BackIn30Minutes\obj\Debug\netcoreapp3.1\BackIn30Minutes.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\Intro\BackIn30Minutes\obj\Debug\netcoreapp3.1\BackIn30Minutes.dll
+C:\Users\mehme\source\repos\Intro\BackIn30Minutes\obj\Debug\netcoreapp3.1\BackIn30Minutes.pdb
+C:\Users\mehme\source\repos\Intro\BackIn30Minutes\obj\Debug\netcoreapp3.1\BackIn30Minutes.genruntimeconfig.cache

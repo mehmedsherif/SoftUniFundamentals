@@ -1,0 +1,15 @@
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\IntegerOperations\bin\Debug\net6.0\IntegerOperations.exe
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\IntegerOperations\bin\Debug\net6.0\IntegerOperations.deps.json
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\IntegerOperations\bin\Debug\net6.0\IntegerOperations.runtimeconfig.json
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\IntegerOperations\bin\Debug\net6.0\IntegerOperations.dll
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\IntegerOperations\bin\Debug\net6.0\IntegerOperations.pdb
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\IntegerOperations\obj\Debug\net6.0\IntegerOperations.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\IntegerOperations\obj\Debug\net6.0\IntegerOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\IntegerOperations\obj\Debug\net6.0\IntegerOperations.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\IntegerOperations\obj\Debug\net6.0\IntegerOperations.AssemblyInfo.cs
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\IntegerOperations\obj\Debug\net6.0\IntegerOperations.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\IntegerOperations\obj\Debug\net6.0\IntegerOperations.dll
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\IntegerOperations\obj\Debug\net6.0\refint\IntegerOperations.dll
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\IntegerOperations\obj\Debug\net6.0\IntegerOperations.pdb
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\IntegerOperations\obj\Debug\net6.0\IntegerOperations.genruntimeconfig.cache
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\IntegerOperations\obj\Debug\net6.0\ref\IntegerOperations.dll

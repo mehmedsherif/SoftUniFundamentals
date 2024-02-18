@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecretChat", "SecretChat\SecretChat.csproj", "{C1AA5341-7E93-4EE0-B15F-3EFEE4D22AD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FancyBarcodes", "FancyBarcodes\FancyBarcodes.csproj", "{90F51980-2812-4006-8503-7C58A21370B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pirates", "Pirates\Pirates.csproj", "{0A2D9B0E-8449-46BB-BA0A-CF9EBCF8E537}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActivationKeys", "ActivationKeys\ActivationKeys.csproj", "{F359A549-F00B-488C-AC0F-F5DCB02CFC20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmojiDetector", "EmojiDetector\EmojiDetector.csproj", "{DC166686-641D-4F48-A31B-4B04A7C4712F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroesOfCodeAndLogicVII", "HeroesOfCodeAndLogicVII\HeroesOfCodeAndLogicVII.csproj", "{3C86ED82-63AA-4BA5-957D-204602393000}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1AA5341-7E93-4EE0-B15F-3EFEE4D22AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1AA5341-7E93-4EE0-B15F-3EFEE4D22AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1AA5341-7E93-4EE0-B15F-3EFEE4D22AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1AA5341-7E93-4EE0-B15F-3EFEE4D22AD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90F51980-2812-4006-8503-7C58A21370B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F51980-2812-4006-8503-7C58A21370B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F51980-2812-4006-8503-7C58A21370B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F51980-2812-4006-8503-7C58A21370B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A2D9B0E-8449-46BB-BA0A-CF9EBCF8E537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A2D9B0E-8449-46BB-BA0A-CF9EBCF8E537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A2D9B0E-8449-46BB-BA0A-CF9EBCF8E537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A2D9B0E-8449-46BB-BA0A-CF9EBCF8E537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F359A549-F00B-488C-AC0F-F5DCB02CFC20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F359A549-F00B-488C-AC0F-F5DCB02CFC20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F359A549-F00B-488C-AC0F-F5DCB02CFC20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F359A549-F00B-488C-AC0F-F5DCB02CFC20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC166686-641D-4F48-A31B-4B04A7C4712F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC166686-641D-4F48-A31B-4B04A7C4712F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC166686-641D-4F48-A31B-4B04A7C4712F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC166686-641D-4F48-A31B-4B04A7C4712F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C86ED82-63AA-4BA5-957D-204602393000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C86ED82-63AA-4BA5-957D-204602393000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C86ED82-63AA-4BA5-957D-204602393000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C86ED82-63AA-4BA5-957D-204602393000}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D71A527-4DD9-4C4F-960F-F9CD48CDD103}
+	EndGlobalSection
+EndGlobal

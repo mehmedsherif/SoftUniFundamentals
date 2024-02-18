@@ -1,0 +1,15 @@
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\TriplesofLatinLetters\bin\Debug\net6.0\TriplesofLatinLetters.exe
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\TriplesofLatinLetters\bin\Debug\net6.0\TriplesofLatinLetters.deps.json
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\TriplesofLatinLetters\bin\Debug\net6.0\TriplesofLatinLetters.runtimeconfig.json
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\TriplesofLatinLetters\bin\Debug\net6.0\TriplesofLatinLetters.dll
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\TriplesofLatinLetters\bin\Debug\net6.0\TriplesofLatinLetters.pdb
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\TriplesofLatinLetters\obj\Debug\net6.0\TriplesofLatinLetters.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\TriplesofLatinLetters\obj\Debug\net6.0\TriplesofLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\TriplesofLatinLetters\obj\Debug\net6.0\TriplesofLatinLetters.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\TriplesofLatinLetters\obj\Debug\net6.0\TriplesofLatinLetters.AssemblyInfo.cs
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\TriplesofLatinLetters\obj\Debug\net6.0\TriplesofLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\TriplesofLatinLetters\obj\Debug\net6.0\TriplesofLatinLetters.dll
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\TriplesofLatinLetters\obj\Debug\net6.0\refint\TriplesofLatinLetters.dll
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\TriplesofLatinLetters\obj\Debug\net6.0\TriplesofLatinLetters.pdb
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\TriplesofLatinLetters\obj\Debug\net6.0\TriplesofLatinLetters.genruntimeconfig.cache
+C:\Users\mehme\source\repos\DataTypesAndVariables-Exercise\TriplesofLatinLetters\obj\Debug\net6.0\ref\TriplesofLatinLetters.dll

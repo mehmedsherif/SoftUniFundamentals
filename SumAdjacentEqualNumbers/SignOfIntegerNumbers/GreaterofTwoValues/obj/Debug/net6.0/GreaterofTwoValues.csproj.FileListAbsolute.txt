@@ -1,0 +1,15 @@
+C:\Users\mehme\source\repos\SignOfIntegerNumbers\GreaterofTwoValues\bin\Debug\net6.0\GreaterofTwoValues.exe
+C:\Users\mehme\source\repos\SignOfIntegerNumbers\GreaterofTwoValues\bin\Debug\net6.0\GreaterofTwoValues.deps.json
+C:\Users\mehme\source\repos\SignOfIntegerNumbers\GreaterofTwoValues\bin\Debug\net6.0\GreaterofTwoValues.runtimeconfig.json
+C:\Users\mehme\source\repos\SignOfIntegerNumbers\GreaterofTwoValues\bin\Debug\net6.0\GreaterofTwoValues.dll
+C:\Users\mehme\source\repos\SignOfIntegerNumbers\GreaterofTwoValues\bin\Debug\net6.0\GreaterofTwoValues.pdb
+C:\Users\mehme\source\repos\SignOfIntegerNumbers\GreaterofTwoValues\obj\Debug\net6.0\GreaterofTwoValues.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\SignOfIntegerNumbers\GreaterofTwoValues\obj\Debug\net6.0\GreaterofTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\SignOfIntegerNumbers\GreaterofTwoValues\obj\Debug\net6.0\GreaterofTwoValues.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\SignOfIntegerNumbers\GreaterofTwoValues\obj\Debug\net6.0\GreaterofTwoValues.AssemblyInfo.cs
+C:\Users\mehme\source\repos\SignOfIntegerNumbers\GreaterofTwoValues\obj\Debug\net6.0\GreaterofTwoValues.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\SignOfIntegerNumbers\GreaterofTwoValues\obj\Debug\net6.0\GreaterofTwoValues.dll
+C:\Users\mehme\source\repos\SignOfIntegerNumbers\GreaterofTwoValues\obj\Debug\net6.0\refint\GreaterofTwoValues.dll
+C:\Users\mehme\source\repos\SignOfIntegerNumbers\GreaterofTwoValues\obj\Debug\net6.0\GreaterofTwoValues.pdb
+C:\Users\mehme\source\repos\SignOfIntegerNumbers\GreaterofTwoValues\obj\Debug\net6.0\GreaterofTwoValues.genruntimeconfig.cache
+C:\Users\mehme\source\repos\SignOfIntegerNumbers\GreaterofTwoValues\obj\Debug\net6.0\ref\GreaterofTwoValues.dll

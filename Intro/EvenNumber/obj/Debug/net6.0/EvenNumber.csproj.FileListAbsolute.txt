@@ -1,0 +1,15 @@
+C:\Users\mehme\source\repos\Intro\EvenNumber\bin\Debug\net6.0\EvenNumber.exe
+C:\Users\mehme\source\repos\Intro\EvenNumber\bin\Debug\net6.0\EvenNumber.deps.json
+C:\Users\mehme\source\repos\Intro\EvenNumber\bin\Debug\net6.0\EvenNumber.runtimeconfig.json
+C:\Users\mehme\source\repos\Intro\EvenNumber\bin\Debug\net6.0\EvenNumber.dll
+C:\Users\mehme\source\repos\Intro\EvenNumber\bin\Debug\net6.0\EvenNumber.pdb
+C:\Users\mehme\source\repos\Intro\EvenNumber\obj\Debug\net6.0\EvenNumber.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\Intro\EvenNumber\obj\Debug\net6.0\EvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\Intro\EvenNumber\obj\Debug\net6.0\EvenNumber.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\Intro\EvenNumber\obj\Debug\net6.0\EvenNumber.AssemblyInfo.cs
+C:\Users\mehme\source\repos\Intro\EvenNumber\obj\Debug\net6.0\EvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\Intro\EvenNumber\obj\Debug\net6.0\EvenNumber.dll
+C:\Users\mehme\source\repos\Intro\EvenNumber\obj\Debug\net6.0\refint\EvenNumber.dll
+C:\Users\mehme\source\repos\Intro\EvenNumber\obj\Debug\net6.0\EvenNumber.pdb
+C:\Users\mehme\source\repos\Intro\EvenNumber\obj\Debug\net6.0\EvenNumber.genruntimeconfig.cache
+C:\Users\mehme\source\repos\Intro\EvenNumber\obj\Debug\net6.0\ref\EvenNumber.dll
